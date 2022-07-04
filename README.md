@@ -1,4 +1,4 @@
-# Getting Started
+# webpack-plugin-demo
 
 ## How to use
 
