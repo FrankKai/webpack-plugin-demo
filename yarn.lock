@@ -457,6 +457,11 @@ content-disposition@0.5.2:
   resolved "https://registry.yarnpkg.com/content-disposition/-/content-disposition-0.5.2.tgz#0cf68bb9ddf5f2be7961c3a85178cb85dba78cb4"
   integrity sha512-kRGRZw3bLlFISDBgwTSA1TMBFN6J6GWDeubmDE3AF+3+yXL8hTWv8r5rkLbqYXY4RjPk/EzHnClI3zQf1cFmHA==
 
+copy-rename-webpack-plugin@^1.0.1-alpha.0:
+  version "1.0.1-alpha.0"
+  resolved "https://registry.yarnpkg.com/copy-rename-webpack-plugin/-/copy-rename-webpack-plugin-1.0.1-alpha.0.tgz#eb2def7452987fb518fbd2162856f7b25dff130a"
+  integrity sha512-SCZgmXbS/g8DfgzWuczwF5NE8xdiz0qFgEvAYBeH5i9gDKZaK4L7rf35JoIF6IyFxkuLs+e2LSQBdkFSLU2VQg==
+
 cross-spawn@^5.0.1:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-5.1.0.tgz#e8bd0efee58fcff6f8f94510a0a554bbfa235449"

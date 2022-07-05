@@ -1,6 +1,8 @@
 const path = require("path");
 const { FileListPlugin } = require("./plugin/file-list-plugin.js");
-const { CopyRenameWebpackPlugin } = require("./plugin/copy-rename-webpack-plugin.js");
+// const { CopyRenameWebpackPlugin } = require("./plugin/copy-rename-webpack-plugin.js");
+const CopyRenameWebpackPlugin = require("copy-rename-webpack-plugin");
+
 
 module.exports = {
   entry: "./src/index.js",
